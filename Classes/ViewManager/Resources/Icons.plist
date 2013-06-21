@@ -3,6 +3,14 @@
 <plist version="1.0">
 <array>
 	<dict>
+		<key>Tag</key>
+		<string>203</string>
+		<key>Size</key>
+		<string>144</string>
+		<key>Name</key>
+		<string>Icon@2x~ipad.png</string>
+	</dict>
+	<dict>
 		<key>Name</key>
 		<string>Icon.png</string>
 		<key>Size</key>
@@ -36,7 +44,7 @@
 	</dict>
 	<dict>
 		<key>Name</key>
-		<string>Icon-72.png</string>
+		<string>Icon~ipad.png</string>
 		<key>Size</key>
 		<integer>72</integer>
 		<key>Tag</key>
